@@ -1,0 +1,1095 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- METADATA  -->
+    <meta charset="UTF-8">
+    <meta name="description"
+        content="This is The C++20 Masterclass: From Fundamental To Advanced Course Syllabus Roadmap (A Course is available on udemy)">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>The C++20 Masterclass - Full Syllabus Roadmap</title>
+    <link rel="stylesheet" href="main.css" type="text/css">
+</head>
+
+<body style="background-color: bisque;">
+    <!-- ROADMAP START HERE -->
+    <figure>
+        <img src="Cpp.png" alt="Cpp" class="cpp-modernclass" width="204" height="194" style="mix-blend-mode: multiply;">
+        <figcaption>
+            The C++20 Masterclass (Full Syllabus Roadmap)
+        </figcaption>
+    </figure>
+    <div class="main-class">
+        <div class="topic0">
+            <h1>Section.1 : Welcome</h1>
+            <ol>
+                <li>Welcome</li>
+                <li>Getting the most out of the course</li>
+                <li>Source code, Slides and Questions [Important]</li>
+            </ol>
+        </div>
+        <div class="topic1">
+            <h1>Section.4 : Environment Setup - [Windows - Linux - Mac]</h1>
+            <ol>
+                <li>The Tools</li>
+            </ol>
+        </div>
+        <div class="topic2">
+            <h1>Section.3 : Environment setup - Window</h1>
+            <ol>
+                <li>Window setup introduction</li>
+                <li>Install and setup VS Code on Windows</li>
+                <li>Microsoft Visual Studio Install - Windows</li>
+                <li>VS Code setup with MSVC</li>
+                <li>Install GCC & Clang - Windows</li>
+                <li>Configure VS Code for GCC - Windows</li>
+                <li>Configure VS Code for Clang - Windows</li>
+                <li>Window template project- All compilers</li>
+                <li>Windows Developement Environment setup - Summary</li>
+            </ol>
+        </div>
+        <div class="topic3">
+            <h1>Section.4 : Environment setup - Linux</h1>
+            <ol>
+                <li>Linux environment setup - Introduction</li>
+                <li>Install & setup VS Code on Linux</li>
+                <li>Install GCC on Linux</li>
+                <li>Configure VS Code for GCC - Linux</li>
+                <li>Install Clang on Linux</li>
+                <li>Configure VS Code for Clang - Linux</li>
+                <li>Template Project - All compilers - Linux</li>
+            </ol>
+        </div>
+        <div class="topic4">
+            <h1>Section.5 : Environment setup - Mac</h1>
+            <ol>
+                <li>Introduction</li>
+                <li>Install and Setup Visual Studio Code</li>
+                <li>Install GCC and Clang</li>
+                <li>Configure VS Code for gcc</li>
+                <li>Configure VS Code for Clang</li>
+                <li>Template Project - All compilers</li>
+            </ol>
+        </div>
+        <div class="topic5">
+            <h1>Section.6 : Environments setup - Other Options</h1>
+            <ol>
+                <li>Online compilers</li>
+                <li>About other IDEs</li>
+                <li>Quiz 1: So you think you know more about C++, let's find out!</li>
+            </ol>
+        </div>
+        <div class="topic6">
+            <h1>Section.7 : Diving In</h1>
+            <ol>
+                <li>Project Template</li>
+                <li>Your First C++ Program</li>
+                <li>Comments</li>
+                <li>Errors</li>
+                <li>Statements and Functions</li>
+                <li>Data input and output</li>
+                <li>Coding Exercise 1: Data Output</li>
+                <li>C++ Program Execution Model</li>
+                <li>C++ core language Vs Standard library Vs STL</li>
+                <li>Quiz 2: Program Structre</li>
+                <li>Assignment 1: The programs want to know where you live</li>
+                <li>Summary</li>
+            </ol>
+        </div>
+        <div class="topic7">
+            <h1>Section 8 : Variables and Data Types</h1>
+            <ol>
+                <li>Introduction</li>
+                <li>Number Systems</li>
+                <li>Decimals and Integers</li>
+                <li>Integer Modifiers</li>
+                <li>Fractional Number</li>
+                <li>Coding Exercise 2: Declare and initialize variables</li>
+                <li>Booleans</li>
+                <li>Characters And Text</li>
+                <li>Auto</li>
+                <li>Assignment</li>
+                <li>Quiz 3: Data Representation in memory</li>
+                <li>Quiz 4: Number systems</li>
+                <li>Quiz 5: Auto</li>
+                <li>Quiz 6: Let's how you'd use your data types</li>
+                <li>Summary</li>
+            </ol>
+        </div>
+        <div class="topic8">
+            <h1>Section.9 : Operations on Data</h1>
+            <ol>
+                <li>Introduction</li>
+                <li>Basic Operations</li>
+                <li>Precedence and Associavity</li>
+                <li>Prefix/Postfix Increment & Decrement</li>
+                <li>Compound Assignment Operators</li>
+                <li>Relational Operators</li>
+                <li>Logical Operators</li>
+                <li>Output formatting</li>
+                <li>Numerics Limits</li>
+                <li>Math Functions</li>
+                <li>Coding Exercise 3: Area of hexagon</li>
+                <li>Weird Integral Types</li>
+                <li>Assignment 2: Celcius to Fahrenheit</li>
+                <li>Assignment 3: Area and Volume of a Box</li>
+                <li>Quiz 7: So you think you know more about C++.Let's find out!</li>
+                <li>Summary</li>
+            </ol>
+        </div>
+        <div class="topic9">
+            <h1>Section.10 : Literals and Constants</h1>
+            <ol>
+                <li>Introduction</li>
+                <li>Literals</li>
+                <li>Constants</li>
+                <li>Constant Expression</li>
+                <li>constinit</li>
+                <li>Quiz 8: So you think know more about C++? Let's find out!</li>
+                <li>Summary</li>
+            </ol>
+        </div>
+        <div class="topic10">
+            <h1>Section.11 : Data Conversions: Overflow & Underflow</h1>
+            <ol>
+                <li>Introduction</li>
+                <li>Implicit Data Conversions</li>
+                <li>Explicit Data Conversions</li>
+                <li>Overflow and Underflow</li>
+                <li>Quiz 9: So you think you know a bit more about C++? Let's find out!</li>
+                <li>Summary</li>
+            </ol>
+        </div>
+        <div class="topics11">
+            <h1>Section.12 : Bitwise Operators</h1>
+            <ol>
+                <li>Introduction</li>
+                <li>Printing Integers in Binary</li>
+                <li>Shift Operators</li>
+                <li>Logical Bitwise Operators</li>
+                <li>Compound Bitwise and Assignment Operators</li>
+                <li>Masks</li>
+                <li>Mask Example</li>
+                <li>Packing Color Information</li>
+                <li>Quiz 10: So you think know more about C++? Let's find out!</li>
+                <li>Summary</li>
+            </ol>
+        </div>
+        <div class="topics11">
+            <h1>Section.13 : Variable Lifetime and Scope</h1>
+            <ol>
+                <li>Variable Lifetime</li>
+                <li>Variable Scope</li>
+                <li>Quiz 11: So you think you know a little more about C++? Let's find out!</li>
+            </ol>
+        </div>
+        <div class="topics12">
+            <h1>Section.14 : Control Flow</h1>
+            <ol>
+                <li>Introduction</li>
+                <li>If Statements</li>
+                <li>Else If</li>
+                <li>Switch</li>
+                <li>Coding Exercise 4: Leap Years</li>
+                <li>Short Circuit Evaluations</li>
+                <li>Integral Logic Conditions</li>
+                <li>Ternary Operators</li>
+                <li>If constexpr</li>
+                <li>If with Initalizer</li>
+                <li>Switch with Initializer</li>
+                <li>Variable Scope Revisited</li>
+                <li>Switch Scope</li>
+                <li>Assignment 4: Is it even ? Or could it be odd?</li>
+                <li>Assignment 5: Will you get the treatment</li>
+                <li>Assignment 6: Is the day valid?</li>
+                <li>Assignment 7: Hunt for a day in the past</li>
+                <li>Assignment 8: Are you completely surrounded?</li>
+                <li>Summary</li>
+            </ol>
+        </div>
+        <div class="topics13">
+            <h1>Section.15 : Loops</h1>
+            <ol>
+                <li>Introduction</li>
+                <li>For Loop</li>
+                <li>Quiz 12: So you think you have a better idea about loop in C++? Let's find out!</li>
+                <li>Coding Exercise 5: Can you sum up to 99?</li>
+                <li>For Loop: Multiple Declarations</li>
+                <li>Coding Exercise 6: Print upper case characters</li>
+                <li>Comma Operator</li>
+                <li>Range Based For Loop</li>
+                <li>Coding Exercise 7: Filter in multiples of 3</li>
+                <li>While Loop</li>
+                <li>Huge Loops with Output</li>
+                <li>Do while loop</li>
+                <li>Coding Exercise 8: Multiples of 19</li>
+                <li>Infinite loops</li>
+                <li>Infinite Loops Practice</li>
+                <li>Decrementing Loops</li>
+                <li>Quiz 13: Throwing you off :-)</li>
+                <li>Nested Loops</li>
+                <li>Break and Continue</li>
+                <li>Fix the Calculator</li>
+                <li>For Loop with Init condition</li>
+                <li>Assignment 9: Year Calendar</li>
+                <li>Summary</li>
+            </ol>
+        </div>
+        <div class="topic14">
+            <h1>Section.16 : Arrays</h1>
+            <ol>
+                <li>Introduction</li>
+                <li>Declaring and using arrays</li>
+                <li>Coding Exercise 9: Eliminating duplicates</li>
+                <li>Size of an array</li>
+                <li>Coding Exercise 10: The collection in sorted</li>
+                <li>Arrays of characters</li>
+                <li>Coding Exercise 11: Hunt for vowels</li>
+                <li>Array Bounds</li>
+                <li>Generating Random Numbers</li>
+                <li>Fun with character arrays: Fortune Teller V1</li>
+                <li>Coding Exercise 12: What do we have in common?</li>
+                <li>Multi dimensional arrays</li>
+                <li>Multi dimensional arrays of characters</li>
+                <li>Fun with multi dimensional arrays of characters: Fortune Teller V2</li>
+                <li>Assignment 10: The Calculator</li>
+                <li>Summary</li>
+            </ol>
+        </div>
+        <div class="topic15">
+            <h1>Section.17 : Pointers</h1>
+            <ol>
+                <li>Introduction</li>
+                <li>Declaring and using pointers</li>
+                <li>Pointer to char</li>
+                <li>Quiz 14: So you think you know more about pointers now? Let's find out!</li>
+                <li>Arrays of pointer to char</li>
+                <li>const pointer and pointer to const</li>
+                <li>Array of const pointer to const char</li>
+                <li>Pointers and arrays</li>
+                <li>Coding Exercise 13: Where does the big guy live?</li>
+                <li>Swapping array data: A demo</li>
+                <li>Pointer arithmetic : Introduction</li>
+                <li>Pointer Arithmetic : Navigation</li>
+                <li>Coding Exercise 14: Shoot forward</li>
+                <li>Pointer arithmetic : Distance between elements</li>
+                <li>Coding Exercise 15: Finding Nemo : The little guy!</li>
+                <li>Pointer Arithmetic : Comparing Pointers</li>
+                <li>Swapping array data : Pointer Arithmetic</li>
+                <li>Program Memory Map Revisited</li>
+                <li>Dynamic Memory Allocation</li>
+                <li>Dangling Pointers</li>
+                <li>Quiz 15: So you think you know a bit more about dangling pointers? Let's find out!</li>
+                <li>When new fails</li>
+                <li>Null pointer safety</li>
+                <li>Memory Leaks</li>
+                <li>Dynamically allocated arrays</li>
+                <li>Coding Exercise 16: Merge them!</li>
+                <li>Summary</li>
+            </ol>
+        </div>
+        <div class="topics16">
+            <h1>Section.18 : References</h1>
+            <ol>
+                <li>Introduction</li>
+                <li>Declaring and using references</li>
+                <li>Coding Exercise 17: Declare your own reference</li>
+                <li>Comparing pointers and references</li>
+                <li>Quiz 16: What's your pick : pointers? References?</li>
+                <li>References and const</li>
+                <li>Quiz 17: Going through references to do stuff</li>
+                <li>References with Range based for loops</li>
+                <li>Summary</li>
+            </ol>
+        </div>
+        <div class="topics17">
+            <h1>Section.19 : Character manipulation and strings</h1>
+            <ol>
+                <li>Introduction</li>
+                <li>Character Manipulation</li>
+                <li>Coding Exercise 18: How many of them are there?</li>
+                <li>Coding Exercise 19: Hunt them down and replace them!</li>
+                <li>C-string manipulation</li>
+                <li>C-String concatenation and copy</li>
+                <li>Coding Exercise 20: Making sense of the gibrish</li>
+                <li>Introduction std::string</li>
+                <li>Declaring and using std::string</li>
+                <li>Concatenating std::string</li>
+                <li>Coding Exercise 21: Build from raw pieces!</li>
+                <li>Accessing Characters in std::string</li>
+                <li>std::string size and capacity</li>
+                <li>Modifying std::string</li>
+                <li>Comparing std::string's</li>
+                <li>Coding Exercise 22: Who's the greatest?</li>
+                <li>Comparing with std::string::compare()</li>
+                <li>std::string : Replacing, copying, resizing and swapping</li>
+                <li>Searching std::string</li>
+                <li>Coding Exercise 23: Finding matches</li>
+                <li>Transforming std::string to/from numbers</li>
+                <li>Escape sequences</li>
+                <li>Raw string literals</li>
+                <li>Quiz 18: Escaping stuff</li>
+                <li>Copied strings</li>
+                <li>Quiz 19: Strings gone crazy!</li>
+                <li>std::string_view</li>
+                <li>Summary</li>
+            </ol>
+        </div>
+        <div class="topics18">
+            <h1>Section.20 : Functions</h1>
+            <ol>
+                <li>Introduction</li>
+                <li>First hand on C++ Functions</li>
+                <li>Coding Exercise 24: Sum up the digits</li>
+                <li>Functions declaration and definitions</li>
+                <li>Coding Exercise 25: Showing the odds!</li>
+                <li>Multiple Files : Revisition the Linker stage</li>
+                <li>Coding Exercise 26: Palindromes!</li>
+                <li>Pass by value</li>
+                <li>Pass by const value</li>
+                <li>Pass by pointer</li>
+                <li>Pass by pointer to const</li>
+                <li>Pass by const pointer to pointer</li>
+                <li>Quiz 20: Zooming in on function parameters</li>
+                <li>Pass by reference</li>
+                <li>Pass by const reference</li>
+                <li>Quiz 21: Pointers, references and const: Throwing you off!</li>
+                <li>Passing function parameters :Summary</li>
+                <li>Coding Exercise 27: Who has character?</li>
+                <li>Array function parameters</li>
+                <li>Coding Exercise 28: Insertion sort - Challenging</li>
+                <li>Sized array function parameters</li>
+                <li>Passing sized arrays by reference</li>
+                <li>Quiz 22: Array function parameters : Throwing you off!</li>
+                <li>Multi dimensional array function parameter</li>
+                <li>Default function arguments</li>
+                <li>Implicit Conversions</li>
+                <li>Implicit conversions with references</li>
+                <li>Implicit conversions with pointers</li>
+                <li>Quiz 23: Implicit conversions with function parameters : Throwing you off!</li>
+                <li>string_view Parameters</li>
+                <li>Implicit conversions from std::string_view to std::string</li>
+                <li>constexpr functions</li>
+                <li>consteval functions</li>
+                <li>Quiz 24: consteval functions : Throwing you off!</li>
+                <li>Coding Exercise 29: Maximum sub-sequence sum problem - Challenging.</li>
+                <li>Summary</li>
+            </ol>
+        </div>
+        <div class="topics19">
+            <h1>Section.21 Enums and Type aliases</h1>
+            <ol>
+                <li>Introduction</li>
+                <li>Enumerated type (Enum Class)</li>
+                <li>Coding Exercise 30: Day of the week</li>
+                <li>Quiz 25: Enum classes : Throwing you off</li>
+                <li>using enum</li>
+                <li>Legacy enumerated types</li>
+                <li>Quiz 26: Enums : Throwing you off!</li>
+                <li>Type aliases</li>
+                <li>Summary</li>
+            </ol>
+        </div>
+        <div class="topics20">
+            <h1>Section.22 : Arguments to main</h1>
+            <ol>
+                <li>Introduction</li>
+                <li>Grab and use the arguments</li>
+                <li>Calculator V1</li>
+                <li>Calculator V2</li>
+                <li>Summary</li>
+            </ol>
+        </div>
+        <div class="topics21">
+            <h1>Section.23 : Getting things out of functions</h1>
+            <ol>
+                <li>Introduction</li>
+                <li>Input and output parameters</li>
+                <li>Coding Exercise 31: Even sums</li>
+                <li>Returning from functions (by value)</li>
+                <li>Returning by reference</li>
+                <li>Returning by pointer</li>
+                <li>Quiz 27: Returning stuff : Throwing you off!</li>
+                <li>Returning array element pointer</li>
+                <li>Coding Exercise 32 : We messed up!</li>
+                <li>Bare auto type deduction</li>
+                <li>Function return type deduction</li>
+                <li>Return type deduction with references</li>
+                <li>Function definitions with return type deduction</li>
+                <li>Quiz 28: Type deductions : Throwing you off!</li>
+                <li>Optional output from functions</li>
+                <li>Introducing std::optional</li>
+                <li>Optional output with std::optional</li>
+                <li>Quiz 29: Optional data : Throwing you off!</li>
+                <li>Summary</li>
+            </ol>
+        </div>
+        <div class="topics22">
+            <h1>Section.24 : Function Overloading</h1>
+            <ol>
+                <li>Introduction</li>
+                <li>Overloading with different parameters</li>
+                <li>Overloading with pointer parameters</li>
+                <li>Overloading with reference parameters</li>
+                <li>Coding Exercise 33: double, std::string and const char* overloads: Let's go!</li>
+                <li>Overloading with const parameters by value</li>
+                <li>Overloading with const pointer and pointer to const parameters</li>
+                <li>Overloading with const refernces</li>
+                <li>Overloading with default parameters</li>
+                <li>Quiz 30: Crazy overloads: Throwing you off!</li>
+                <li>Summary</li>
+            </ol>
+        </div>
+        <div class="topics23">
+            <h1>Section.25 : Lambdas Functions</h1>
+            <ol>
+                <li>Introduction</li>
+                <li>Declaring and using lambda functions</li>
+                <li>Capture lists</li>
+                <li>Capture all in context</li>
+                <li>Quiz 31: Lambdas : Throwing you off!</li>
+                <li>Summary</li>
+            </ol>
+        </div>
+        <div class="topics24">
+            <h1>Section.26 : Functions : The misfits</h1>
+            <ol>
+                <li>Introduction</li>
+                <li>Static variables</li>
+                <li>Coding Exercise 34: Self Tracking Function</li>
+                <li>Coding Exercise 35: Odd series</li>
+                <li>Inline functions</li>
+                <li>Quiz 32: Inlined functions : Throwing you off</li>
+                <li>Recursive Functions</li>
+                <li>Coding Exercise 36: Factorial</li>
+                <li>Summary</li>
+            </ol>
+        </div>
+        <div class="topics25">
+            <h1>Section.27 Function call stack and debugging</h1>
+            <ol>
+                <li>Introduction</li>
+                <li>The call stack</li>
+                <li>Debugging C++ applications</li>
+                <li>Debugging in VS Code</li>
+                <li>Debugging in CodeLite</li>
+                <li>Debugging in Microsoft Visual Studio</li>
+                <li>Debugging arrays, loops and pointers</li>
+                <li>Summary</li>
+            </ol>
+        </div>
+        <div class="topics26">
+            <h1>Section.28 : Function Templates</h1>
+            <ol>
+                <li>Introduction</li>
+                <li>Trying out function templates</li>
+                <li>Coding Exercise 37: Hunt them down!</li>
+                <li>Template type deduction and explicit arguments</li>
+                <li>Quiz 33: Template type deductions : Throwing you off!</li>
+                <li>Template parameters by reference</li>
+                <li>Coding Exercise 38: Swap'em'up!</li>
+                <li>Template Specialization</li>
+                <li>Coding Exercise 39: Find'em const char* 's</li>
+                <li>Quiz 34: Where do specializations go : Throwing you off!</li>
+                <li>Function templates with overloading</li>
+                <li>Coding Exercise 40: const char* function template overloads</li>
+                <li>Function templates specialization Vs Overloads : Some additional reading.</li>
+                <li>Function templates with multiple parameters</li>
+                <li>Coding Exercise 41: Put'em numbers together!</li>
+                <li>Templates return type deduction with auto</li>
+                <li>Quiz 35: Function templates in multiple files : Throwing you off!</li>
+                <li>Decltype and trailing return types</li>
+                <li>decltype and trailing return types : Throwing you off</li>
+                <li>Decltype auto</li>
+                <li>Default arguments</li>
+                <li>Non type template parameters</li>
+                <li>Coding Exercise 42: Find'em values!</li>
+                <li>Auto Function Templates</li>
+                <li>Quiz 37: auto Function Templates : Throwing you off!</li>
+                <li>Named Template Parameters for Lambdas</li>
+                <li>Type traits</li>
+                <li>constexpr if</li>
+                <li>Summary</li>
+            </ol>
+        </div>
+        <div class="topic27">
+            <h1>Section.29 : C++20 Concepts</h1>
+            <ol>
+                <li>Introduction</li>
+                <li>Using Concepts</li>
+                <li>Quiz 38: Adding stuff up : Throwing you off!</li>
+                <li>Building your own concepts</li>
+                <li>Assignment 11: Put'em std::string together!</li>
+                <li>Quiz 39: Making up concepts : Throwing you off!</li>
+                <li>Zooming in on the requires clause</li>
+                <li>Combining concepts : Conjunction(&&) and Disjunction(||)</li>
+                <li>Quiz 40: Concepts : Throwing you off!</li>
+                <li>Assignment 12: Put'em different types together</li>
+                <li>Concepts and auto</li>
+                <li>Summary</li>
+            </ol>
+        </div>
+        <div class="topics28">
+            <h1>Section.30 : Classes</h1>
+            <ol>
+                <li>Introduction</li>
+                <li>Your First Class</li>
+                <li>Coding Exercise 43: You're a box maker!</li>
+                <li>Coding Exercise 44: Building for the 2D space!</li>
+                <li>C++ Constructors</li>
+                <li>Coding Exercise 45: Box Constructors</li>
+                <li>Coding Exercise 46: Costrcut'em Points!</li>
+                <li>Defaulted constructors</li>
+                <li>Quiz 41: Constructors : Throwing you off!</li>
+                <li>Setters and Getters</li>
+                <li>Coding Exercise 47: Point printing like a gentelman!</li>
+                <li>Class Across Multiple Files</li>
+                <li>Coding Exercise 48: Split your boxes in parts</li>
+                <li>Creating class through IDEs</li>
+                <li>Arrow pointer call notation</li>
+                <li>Quiz 42: Pointers to objects : Throwing you off!</li>
+                <li>Destructors</li>
+                <li>Order of Constructor Destructor Calls</li>
+                <li>The this Pointer</li>
+                <li>Coding Exercise 49: Setter Chains for Points with pointers</li>
+                <li>Coding Exercise 50: Setter Chain for Points with references</li>
+                <li>struct</li>
+                <li>Quiz 43: struct Vs class : Throwing you off!</li>
+                <li>Size of objects</li>
+                <li>Summary</li>
+            </ol>
+        </div>
+        <div class="topics29">
+            <h1>Section.31 Classes, objects and const</h1>
+            <ol>
+                <li>Introduction</li>
+                <li>const objects</li>
+                <li>Quiz 44: Const objects : Throwing you off!</li>
+                <li>Const objects as function arguments</li>
+                <li>Quiz 45: Tricky arguments : Throwing you off</li>
+                <li>const member functions</li>
+                <li>Coding Exercise 51: Fixing up your Point</li>
+                <li>Getter that work as setters</li>
+                <li>Coding Exercise 52: Kill two birds with one stone</li>
+                <li>Dangling pointers and references in objects</li>
+                <li>Tricky return values : Throwing you off!</li>
+                <li>Zooming in on const</li>
+                <li>Mutable Member variables</li>
+                <li>Structured Bindings</li>
+                <li>Summary</li>
+            </ol>
+        </div>
+        <div class="topics30">
+            <h1>Section.32 : Diving deep into constructors and initialization</h1>
+            <ol>
+                <li>Introduction</li>
+                <li>Default parameters for constructors</li>
+                <li>Coding Exercise 53: Default Points</li>
+                <li>Quiz 47: Several paths leading to Rome!</li>
+                <li>Initializer lists for constructors</li>
+                <li>Coding Exercise 54: Build Boxes like a gentelman!</li>
+                <li>Initializer lists Vs Member wise copy initialization</li>
+                <li>Explicit constructors</li>
+                <li>Constructor delegation</li>
+                <li>Coding Exercise 55: Delegated constructor for Box</li>
+                <li>Quiz 48: Tricky constructor delegation</li>
+                <li>Copy constructors</li>
+                <li>Quiz 49: Copy Constructors : Throwing you off!</li>
+                <li>Coding Exercise 56: You're a Point fixer!</li>
+                <li>Objects stored in arrays are copies</li>
+                <li>Quiz 50: You're a shape observer!</li>
+                <li>Shallow Vs Deep copy</li>
+                <li>Move constructors</li>
+                <li>Quiz 51: The need for move constructors</li>
+                <li>Deleted constructors</li>
+                <li>Quiz 52: Delete your constructor?</li>
+                <li>Initializer list constructor</li>
+                <li>Coding Exercise 57: Reverser</li>
+                <li>Aggregate initialization</li>
+                <li>Designated Initializers (C++20)</li>
+                <li>Uniform initializatoin for aggregates</li>
+                <li>Summary</li>
+            </ol>
+        </div>
+
+        <div class="topics31">
+            <h1>Section.33 : Freinds</h1>
+            <ol>
+                <li>Introduction</li>
+                <li>Freind functions</li>
+                <li>Coding Exercise 58: Measuring distances</li>
+                <li>Freind classes</li>
+                <li>Coding Exercise 59: You're a ShapeFactory maker!</li>
+                <li>Summary</li>
+            </ol>
+        </div>
+        <div class="topics32">
+            <h1>Section.34 : Static Members</h1>
+            <ol>
+                <li>Introduction (theory)</li>
+                <li>Static Members</li>
+                <li>Static member variables</li>
+                <li>Quiz 53: Static Members : Throwing you off!</li>
+                <li>Coding Exercise 60: Count'em Points</li>
+                <li>Inline static member variables (C++17)</li>
+                <li>Static constant</li>
+                <li>Static constants pre C++17</li>
+                <li>Coding Exercise 61: Counts Points like a gentelman</li>
+                <li>Coding Exercise 62: Cool Utility</li>
+                <li>Member variables of self type</li>
+                <li>Member variables of other types</li>
+                <li>Static member functios</li>
+                <li>Quiz 54: Static member functions : Throwing you off!</li>
+                <li>Nested classes</li>
+                <li>In class member initialization revisited</li>
+                <li>Summary</li>
+            </ol>
+        </div>
+        <div class="topics33">
+            <h1>Section.35 : Namespaces</h1>
+            <ol>
+                <li>Introduction</li>
+                <li>Creating Namespaces</li>
+                <li>Coding Exercise 63: Use Points like a gentelman</li>
+                <li>Namespaces Across Multiple Files</li>
+                <li>Coding Exercise 64: Split your point across</li>
+                <li>Default Global Namespace</li>
+                <li>Coding Exercise 65: Make it global</li>
+                <li>Built In Namespaces</li>
+                <li>Using Declarations</li>
+                <li>Quiz 55: Using declaration : Throwing you off!</li>
+                <li>Anounymous Namespaces</li>
+                <li>Quiz 56: Anonymous namespaces : Throwing you off!</li>
+                <li>Nested Namespaces</li>
+                <li>Namespaces Aliases</li>
+                <li>Summary</li>
+            </ol>
+        </div>
+        <div class="topics34">
+            <h1>Section.36 : Programs with multiple files : A closer look</h1>
+            <ol>
+                <li>Introduction</li>
+                <li>Declarations and definitions</li>
+                <li>Quiz 57: Compiling and Linking : Throwing you off!</li>
+                <li>Declarations and definitions</li>
+                <li>Quiz 58: Declarations or Definition : Throwing you off!</li>
+                <li>One Definition Rule</li>
+                <li>Linkage</li>
+                <li>Global external variables</li>
+                <li>Quiz 59: Linnkage : Throwing you off!</li>
+                <li>Flipping linkage</li>
+                <li>Inline variables and functions</li>
+                <li>Inline Vs static (anonymous namespaces)</li>
+                <li>Forward declarations</li>
+                <li>Summary</li>
+            </ol>
+        </div>
+        <div class="topics35">
+            <h1>Section.37 : Smart Pointers</h1>
+            <ol>
+                <li>Introduction</li>
+                <li>Unique pointers</li>
+                <li>Quiz 60: Smarth Pointers : Throwing you off!</li>
+                <li>Coding Exercise 66: Release memory like a gentelman!</li>
+                <li>Coding Exercise 67: You can do better!</li>
+                <li>Unique pointers as function parameters and return values</li>
+                <li>Quiz 61: Tricky parameters : Throwing you off!</li>
+                <li>Unique pointers and arrays</li>
+                <li>Shared pointers</li>
+                <li>Coding Exercise 68: Shared pointers: You can do better!</li>
+                <li>Creating shared pointers from unique pointers</li>
+                <li>Shared pointers with arrays</li>
+                <li>Shared pointers as function parameters and return values</li>
+                <li>Quiz 62: Smart Pointers : Throwing you off!</li>
+                <li>Weak pointers</li>
+                <li>Smart pointer members : Recommended reading</li>
+                <li>Quiz 63: Smart Pointers conventional wisdom</li>
+                <li>Summary</li>
+            </ol>
+        </div>
+        <div class="topics36">
+            <h1>Section.38 : Operator Overloading</h1>
+            <ol>
+                <li>Introduction</li>
+                <li>Addition Operator as Member</li>
+                <li>Coding Exercise 69: operator+ for Multi-dimensional Points</li>
+                <li>Addition Operator as Non-Member</li>
+                <li>Coding Exercise 70: Adding up strings</li>
+                <li>Coding Exercise 71: Multi-dimensional Points : Non member operator+</li>
+                <li>Subscript Operator for Reading</li>
+                <li>Coding Exercise 72: Read data like a gentelman</li>
+                <li>Subscript Operator for Reading and Writing</li>
+                <li>Subscript Operator for Collections Types</li>
+                <li>Stream Insertion Operation Operator</li>
+                <li>Coding Exercise 73: You'll prints Points!</li>
+                <li>Coding Exercise 74: You'll print own strings!</li>
+                <li>Stream Extraction Operator</li>
+                <li>Other Arithmetic Operator</li>
+                <li>Compound Operator && Resusing Other Operators</li>
+                <li>Quiz 64: Compound operators : Throwing you off!</li>
+                <li>Coding Exercise 75: operator += for CU::string</li>
+                <li>Custom Type Conversions</li>
+                <li>Implicit Conversions with Overriden Binary Operators</li>
+                <li>Coding Exercise 76: Use CU::strings left and right, like a gentelman.</li>
+                <li>Unary Prefix Increment Operator As Member</li>
+                <li>Unary Prefix Increment Operator as Non-Member</li>
+                <li>Unary Postfix Increment Operator</li>
+                <li>Prefix-Postfix Decrement Operator (Exercise)</li>
+                <li>Copy Assignment Operator</li>
+                <li>Quiz 65 Copies : Throwing you off!</li>
+                <li>Coding Exercise 77: CU::string copy assignment operator</li>
+                <li>Copy Assignment Operator for Other Types</li>
+                <li>Type Conversions Recap</li>
+                <li>Functors</li>
+                <li>Coding Exercise 78: Distance function object</li>
+                <li>Summary</li>
+                <li>Assignment 13: [Optional] Your very own string class</li>
+            </ol>
+        </div>
+        <div class="topics37">
+            <h1>Section.39 : Logical Operators and C++20 Three Way Comparison Infrastructre</h1>
+            <ol>
+                <li>Introduction</li>
+                <li>All Logical Operators</li>
+                <li>Coding Exercise 79: You'll compare CU::string's</li>
+                <li>Rel Ops going forward</li>
+                <li>Quiz 66: Rel Ops going forward</li>
+                <li>Logical Operators with Implicit Conversions</li>
+                <li>Coding Exercise 80: Compare like a gentelman</li>
+                <li>Three way comparison operator</li>
+                <li>Quiz 67: operator &lt;=&gt; : Throwing you off!</li>
+                <li>Defaulted Equality Operator</li>
+                <li>Assignment 14: Are points equal? Or not equal?</li>
+                <li>Custom equality operator</li>
+                <li>Assignment 15: Are CU::string's equal? : C++20 Mode!</li>
+                <li>Default ordering with spaceship operator</li>
+                <li>Assignment 16: Default Ordered Points</li>
+                <li>Members without the spaceship operator</li>
+                <li>Custom spaceship operator for ordering</li>
+                <li>Assignment 17: Equality and ordering for CU::string</li>
+                <li>Logical Operators Simplified</li>
+                <li>Spaceship operator as a non member</li>
+                <li>Zooming in on weak ordering - Example 1</li>
+                <li>Zooming on weak ordering - Example 2</li>
+                <li>Zooming on partial ordering</li>
+                <li>Summing up on comparisons in C++20</li>
+                <li>Summary</li>
+            </ol>
+        </div>
+        <div class="topics38">
+            <h1>Section.40 : Inheritance</h1>
+            <ol>
+                <li>Introduction</li>
+                <li>First try on Inheritance</li>
+                <li>Coding Exercise 81: You'll fix the hierarchy</li>
+                <li>Protected members</li>
+                <li>Quiz 68: Member access specifiers : Throwing you off!</li>
+                <li>Coding Exercise 82: Get it to work</li>
+                <li>Quiz 69: Base and Derived : Throwing you off balance!</li>
+                <li>Base class access specifiers : Zooming in</li>
+                <li>Base class access specifiers : A demo</li>
+                <li>Quiz 70: Base class access specifiers : Throwing you off!</li>
+                <li>Closing in on Private Inheritance</li>
+                <li>Resurecting Members Back in Context</li>
+                <li>Coding Exercise 83: You'll bring them back!</li>
+                <li>Default Constructors with Inheritance</li>
+                <li>Coding Exercise 84: Mix'em up!</li>
+                <li>Custom Constructors With Inheritance</li>
+                <li>Coding Exercise 85: Chain'em Constructors</li>
+                <li>Copy Constructors with Inheritance</li>
+                <li>Coding Exercise 86: Copy construct'em with Inheritance</li>
+                <li>Inheriting Base Constructors</li>
+                <li>Quiz 71: Inherited base constructors : Throwing you off</li>
+                <li>Inheritance and Destructors</li>
+                <li>Reused Symbols in Inheritance</li>
+                <li>Summary</li>
+            </ol>
+        </div>
+        <div class="topics39">
+            <h1>Section.41 : Polymorphism</h1>
+            <ol>
+                <li>Introduction</li>
+                <li>Static Binding with Inheritance</li>
+                <li>Quiz 72: Static binding : Throwing you off!</li>
+                <li>Dynamic binding with virtual functions</li>
+                <li>Coding Exercise 87: Build a dynamic inheritance tree</li>
+                <li>Coding Exercise 88: Help! Help! Weird references here!</li>
+                <li>Size of polymorphic objects and slicing</li>
+                <li>Quiz 73: Sliced off ? : Throwing you off!</li>
+                <li>Polymorphic objects stored in collections (array)</li>
+                <li>Override</li>
+                <li>Overloading, overriding and function hiding</li>
+                <li>Coding Exercise 89: Tricky Overloads</li>
+                <li>Quiz 74: Tricky Hierarchies : Throwing you off!</li>
+                <li>Inheritance and polymorphism at different levels</li>
+                <li>Inheritance and polymorphism with static members</li>
+                <li>Coding Exercise 90: Static members with inheritance</li>
+                <li>Final</li>
+                <li>Final and Override are not keywords</li>
+                <li>Polymorphic functions and access specifiers</li>
+                <li>Non polymorphic functions and access specifiers</li>
+                <li>Virtual functions with default arguments</li>
+                <li>Virtual Destructors</li>
+                <li>Dynamic casts</li>
+                <li>Polymorphic Functions and Destructors</li>
+                <li>typeid() operator</li>
+                <li>Pure virtual functions and abstract classes</li>
+                <li>Abstract Classes as Interfaces</li>
+                <li>Summary</li>
+            </ol>
+        </div>
+        <div class="topics40">
+            <h1>Section.42 : Exception Handling</h1>
+            <ol>
+                <li>Introduction</li>
+                <li>Try and Catch Blocks and scope</li>
+                <li>Coding Exercise 91: Divide like a boss!</li>
+                <li>The need for exceptions</li>
+                <li>Handling Exceptions At Different Levels</li>
+                <li>Quiz 75: Lots of Level : Throwing you off!</li>
+                <li>Multiple Handlers for an Exception</li>
+                <li>Nested Try Blocks</li>
+                <li>Quiz 76: Nest Your errors : Throwing you off!</li>
+                <li>Throwing Class Objects</li>
+                <li>Coding Exercise 92: Build you own</li>
+                <li>Exceptions as Class Objects with Inheritance Hierarchies</li>
+                <li>Quiz 77: Relatives : Throwing you off!</li>
+                <li>Polymorphic Exceptions</li>
+                <li>Quiz 78: Relatives, again! : Throwing you off!</li>
+                <li>Rethrown Exceptions</li>
+                <li>Program custom termination</li>
+                <li>Ellipsis catch all block</li>
+                <li>noexcept Specifier</li>
+                <li>Exceptions in Destructors</li>
+                <li>Standard Exceptions</li>
+                <li>Cacthing Standard Exceptions</li>
+                <li>Throwing Standard Exceptions</li>
+                <li>Assignment 18: Read files like a gentelman!</li>
+                <li>Subclassing Standard Exceptions</li>
+                <li>Summary</li>
+            </ol>
+        </div>
+        <div class="topics41">
+            <h1>Section.43 : Box Container class : Practicing what we know</h1>
+            <ol>
+                <li>Introduction</li>
+                <li>Constructing and destructing</li>
+                <li>Adding and Expanding</li>
+                <li>Removing Items</li>
+                <li>Other operators (=,+,+=)</li>
+                <li>Zooming out on BoxContainer</li>
+                <li>Storing In Different Types</li>
+                <li>Summary</li>
+            </ol>
+        </div>
+        <div class="topics42">
+            <h1>Section.44 : Class Templates</h1>
+            <ol>
+                <li>Introduction</li>
+                <li>Your First Class Template</li>
+                <li>Coding Exercise 93: Building your maps</li>
+                <li>Instances Of Class templates</li>
+                <li>Quiz 79: Keeping track of your instances : Throwing you off!</li>
+                <li>Non type template parameters</li>
+                <li>Coding Exercise 94: Multi dimensional points : The swissarmy knife class</li>
+                <li>Quiz 80: Compatible points? : Throwing you off!</li>
+                <li>Default Values for template parameters</li>
+                <li>Coding Exercise 95: Sane Defaults</li>
+                <li>Explicit Template Instantiations</li>
+                <li>Template Specialization</li>
+                <li>Coding Exercise 96: Compare your maps!</li>
+                <li>Quiz 81: Specialized maps : Throwing you off!</li>
+                <li>Template Specialization with select methods</li>
+                <li>Coding Exercise 97: Comparing Maps ? Not Again!!</li>
+                <li>Quiz 82 Comparing Maps. Yes. Again! : Throwing you off!</li>
+                <li>Freinds of class templates[Theory intro]</li>
+                <li>Freind functions for class templates</li>
+                <li>Stream insertion operator for class templates</li>
+                <li>Assignment 19: Stream insert'em Points!</li>
+                <li>Assignment 20: Stream insert'em Maps!</li>
+                <li>Class templates with type traits and static asserts</li>
+                <li>Assignment 21: Type traits constrained Maps!</li>
+                <li>Class templates with C++20 concepts</li>
+                <li>Built In Concepts</li>
+                <li>Assignment 22: Concept constrain your maps!</li>
+                <li>Concepts Example #1</li>
+                <li>Concepts Example #2</li>
+                <li>Assignment 23: Making points better to use with operator&lt;&lt;</li>
+                <li>Summary</li>
+            </ol>
+        </div>
+        <div class="topics43">
+            <h1>Section.45 : Move Semantics</h1>
+            <ol>
+                <li>Introduction</li>
+                <li>Quiz 83: Move Semantics : What they're all about</li>
+                <li>Lvalues and Rvalues</li>
+                <li>Quiz 84: Lvalues and Rvalues : Throwing you off!</li>
+                <li>Rvalue references</li>
+                <li>Quiz 85: Rvalue references : Throwing you off!</li>
+                <li>Moving temporaries around</li>
+                <li>Move constructors and assignment operators</li>
+                <li>Coding Exercise 98: Moving from CU::string's</li>
+                <li>Moving Lvalues with std::move</li>
+                <li>Invalidating pointers after std::move</li>
+                <li>Move only types</li>
+                <li>Passing by rvalue reference</li>
+                <li>Summary</li>
+            </ol>
+        </div>
+        <div class="topics44">
+            <h1>Section.46 : Functions Like Entities</h1>
+            <ol>
+                <li>Introduction</li>
+                <li>Function Pointers</li>
+                <li>Coding Exercise 99: Collection Sums</li>
+                <li>Callback Functions</li>
+                <li>Coding Exercise 100: Modifying scores</li>
+                <li>Function Pointer Type Aliases</li>
+                <li>Function Pointer Type Aliases with Templates</li>
+                <li>Functors</li>
+                <li>Coding Exercise 101: Functors score modifiers</li>
+                <li>Standard Functors (in the &lt;functional&gt; header)</li>
+                <li>Functors with parameters</li>
+                <li>Coding Exercise 102: Color Printer</li>
+                <li>Functors and lambda functions</li>
+                <li>Lambda functions as callbacks</li>
+                <li>Capturing by value under the hood</li>
+                <li>Capturing by value reference under the hood</li>
+                <li>Mixin capturing</li>
+                <li>Capturing the this pointer</li>
+                <li>std::function</li>
+                <li>Coding Exercise 103: scores modifying std::function</li>
+                <li>Summary</li>
+            </ol>
+        </div>
+        <div class="topics45">
+            <h1>Section.47 : STL, Containers and Iterators</h1>
+            <ol>
+                <li>
+                    Introduction
+                </li>
+                <li>std::vector</li>
+                <li>std::array</li>
+                <li>Iterators</li>
+                <li>Traversing container subsets with iterators</li>
+                <li>Reverse iterators</li>
+                <li>Constant iterators</li>
+                <li>Iterator types</li>
+                <li>std::begin and std::end</li>
+                <li>Coding Exercise 104: Unions</li>
+                <li>Summary</li>
+            </ol>
+        </div>
+        <div class="topics46">
+            <h1>Section.48 : Zooming in on STL Containers</h1>
+            <ol>
+                <li>Introduction</li>
+                <li>Sequence Containers : Deque</li>
+                <li>Sequence Containers : Forward List</li>
+                <li>Sequence Containers : List</li>
+                <li>Coding Exercise 105: Print positions</li>
+                <li>Sequence containers : std::vector revisited</li>
+                <li>Sequence Containers : std::array revisited</li>
+                <li>Associative Containers : Intro</li>
+                <li>Associative Containers : Pair</li>
+                <li>Associative Containers : Set</li>
+                <li>Associative Containers : Map</li>
+                <li>Associative Containers : Multiset & multimap</li>
+                <li>Unordered Associative Containers</li>
+                <li>Container Adaptors : Intro</li>
+                <li>Container Adaptors : Stack</li>
+                <li>Container Adaptors : Queue</li>
+                <li>Container Adaptors : Priority queue</li>
+                <li>Summary</li>
+            </ol>
+        </div>
+        <div class="topics47">
+            <h1>Section.49 : STL Algorithms</h1>
+            <ol>
+                <li>Introduction</li>
+                <li>All of</li>
+                <li>for_each</li>
+                <li>max_element and min_elements</li>
+                <li>find</li>
+                <li>copy</li>
+                <li>sort</li>
+                <li>Transform</li>
+                <li>Summary</li>
+                <li>Coding Exercise 106: MovableStack</li>
+            </ol>
+        </div>
+        <div class="topics48">
+            <h1>Section.50 : C++20 Ranges and Range Algorithms</h1>
+            <ol>
+                <li>Introduction</li>
+                <li>Range Algorithms</li>
+                <li>C++20 Ranges Library Iterator Pair Algorithms</li>
+                <li>Projections</li>
+                <li>Views and and Range Adaptors</li>
+                <li>Vie composition and Pipe operator</li>
+                <li>Range Factories</li>
+                <li>Summary</li>
+            </ol>
+        </div>
+        <div class="topics49">
+            <h1>Section.51 : Building Custom Iterators for Your Containers</h1>
+            <ol>
+                <li>Introduction</li>
+                <li>Iterator Powers</li>
+                <li>Custom Iterator Theory</li>
+                <li>Building Custom Input Iterators</li>
+                <li>Building Custom Output Iterators</li>
+                <li>Building Custom Forward Iterators</li>
+                <li>Building Custom Bidirectional Iterators</li>
+                <li>Building Custom Random Access Iterators</li>
+                <li>Custom Iterators with C++20 Ranges and Views</li>
+                <li>Constant Iterators</li>
+                <li>Raw Pointers as Iterators</li>
+                <li>Wrapping Iterators From Other Containers</li>
+                <li>Summary</li>
+            </ol>
+        </div>
+        <div class="topics50">
+            <h1>Section.52 C++20 Coroutines</h1>
+            <ol>
+                <li>Introduction</li>
+                <li>Coroutine workflow</li>
+                <li>Coroutine keywords</li>
+                <li>Coroutine Infrastructre</li>
+                <li>co_await</li>
+                <li>co_yield</li>
+                <li>co_return</li>
+                <li>Custom Generator Coroutine Type</li>
+                <li>Third Party Generator</li>
+                <li>Summary</li>
+            </ol>
+        </div>
+        <div class="topics51">
+            <h1>Section.53 : C++20 Modules</h1>
+            <ol>
+                <li>Introduction</li>
+                <li>Your First Module</li>
+                <li>Block Export</li>
+                <li>Separating the Module Interface from the Implementation (Same File)</li>
+                <li>Separating the Module Interface from the Implementation (Different Files)</li>
+                <li>Multiple Implementatyion Files</li>
+                <li>Multiple Interface Files</li>
+                <li>Export Import</li>
+                <li>Sub-Modules</li>
+                <li>Module Interface Partitions</li>
+                <li>Custom Class Templates as Module (BoxContainer)</li>
+                <li>Modules with Namespaces</li>
+                <li>Visibility and Reachability</li>
+                <li>Private Module Fragments</li>
+                <li>Do's and Don't's</li>
+                <li>Summary</li>
+                <li>Course List - Discount</li>
+            </ol>
+        </div>
+    </div>
+</body>
+<!-- CODE IS TOO MUCH LONG! -->
+
+</html>
